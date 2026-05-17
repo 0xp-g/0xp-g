@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Yogesh;Full+Stack+Developer+%7C+System+Design+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=100&lines=%7B+%22dev%22%3A+%220xp-g%22+%7D;Backend+%E2%86%92+Systems+%E2%86%92+Scale;sudo+build+--deploy+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br>
 
@@ -26,7 +26,7 @@ focus:
   - Data Structures & Algorithms
 currently_building:
   - deploy-lite (Mini PaaS Platform)
-  - Pattern-Bank (Spaced Repetition for DSA)
+  - Carbon Counter (Sustainability Tracker)
 learning:
   - Low Level Design Patterns
   - Distributed Systems
@@ -97,11 +97,23 @@ fun_fact: "I build the tools I wish existed"
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/nullx37?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="60%"/>
+<p>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=6C63FF&label=Total+Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2Fnullx37&logo=leetcode&logoColor=FFA116" alt="Total Solved"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=%2300b8a3&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2Fnullx37" alt="Easy"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=%23ffc01e&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2Fnullx37" alt="Medium"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=%23ef4743&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2Fnullx37" alt="Hard"/>
+</p>
+
+<br>
+
+<img src="https://leetcard.jacoblin.cool/nullx37?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=20&hide_title=true" alt="LeetCode Heatmap" width="60%"/>
 
 </div>
 
@@ -113,7 +125,7 @@ fun_fact: "I build the tools I wish existed"
 
 <a href="https://github.com/0xp-g/deploy-lite"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xp-g&repo=deploy-lite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="deploy-lite"/></a>
 &nbsp;
-<a href="https://github.com/0xp-g/Pattern-Bank"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xp-g&repo=Pattern-Bank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="Pattern-Bank"/></a>
+<a href="https://github.com/0xp-g/Carbon_counter"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xp-g&repo=Carbon_counter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="Carbon_counter"/></a>
 
 </div>
 
