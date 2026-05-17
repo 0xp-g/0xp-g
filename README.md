@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=100&lines=%7B+%22dev%22%3A+%220xp-g%22+%7D;Backend+%E2%86%92+Systems+%E2%86%92+Scale;sudo+build+--deploy+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=100&lines=%7B+%22dev%22%3A+%220xp-g%22+%7D;Backend+%E2%86%92+Systems+%E2%86%92+Scaling" alt="Typing SVG" /></a>
 
 <br>
 
