@@ -21,12 +21,12 @@
 name: Yogesh
 handle: 0xp-g
 focus:
-  - Full Stack Development
+  - Full Stack / Backend Development
   - System Design & Architecture
   - Data Structures & Algorithms
 currently_building:
   - deploy-lite (Mini PaaS Platform)
-  - Carbon Counter (Sustainability Tracker)
+  - Distributed Task Queue (Celery Like)
 learning:
   - Low Level Design Patterns
   - Distributed Systems
