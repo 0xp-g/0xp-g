@@ -97,6 +97,16 @@ fun_fact: "I build the tools I wish existed"
 
 ---
 
+## 🏆 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/nullx37?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="60%"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
