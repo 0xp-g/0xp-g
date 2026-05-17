@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xp-g&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" width="280" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xp-g&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" width="280" alt="Top Languages"/>
 
 ## 🧑‍💻 About Me
 
@@ -81,7 +81,7 @@ fun_fact: "I build the tools I wish existed"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xp-g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xp-g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xp-g&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=545d6e" width="49%" alt="GitHub Streak"/>
 
@@ -111,17 +111,17 @@ fun_fact: "I build the tools I wish existed"
 
 <div align="center">
 
-<a href="https://github.com/0xp-g/deploy-lite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xp-g&repo=deploy-lite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="deploy-lite"/></a>
+<a href="https://github.com/0xp-g/deploy-lite"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xp-g&repo=deploy-lite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="deploy-lite"/></a>
 &nbsp;
-<a href="https://github.com/0xp-g/Pattern-Bank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xp-g&repo=Pattern-Bank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="Pattern-Bank"/></a>
+<a href="https://github.com/0xp-g/Pattern-Bank"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xp-g&repo=Pattern-Bank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="Pattern-Bank"/></a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/0xp-g/gitstat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xp-g&repo=gitstat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="gitstat"/></a>
+<a href="https://github.com/0xp-g/gitstat"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xp-g&repo=gitstat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="gitstat"/></a>
 &nbsp;
-<a href="https://github.com/0xp-g/dsa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xp-g&repo=dsa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="dsa"/></a>
+<a href="https://github.com/0xp-g/dsa"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xp-g&repo=dsa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="dsa"/></a>
 
 </div>
 
